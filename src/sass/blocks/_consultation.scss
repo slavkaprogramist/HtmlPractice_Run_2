@@ -1,0 +1,10 @@
+.consultaion{
+    min-height: 680px;
+    background: url(../img/consultation.jpg) center (center/cover) no-repeat;
+    padding: 100px 0 124px 0;
+    &__subtitle{
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 20px;
+    }
+}
