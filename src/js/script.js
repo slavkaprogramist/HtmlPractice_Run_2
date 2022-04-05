@@ -8,14 +8,15 @@ $(document).ready(function(){
           breakpoint: 1090,
           settings: {
             dots: true,
-            arrows: false
+            arrows: false,
+            slidesToShow: 1,
+            slidesToScroll: 1,
           }
         },
           {
             breakpoint: 600,
             settings: {
-              slidesToShow: 2,
-              slidesToScroll: 2
+
             }
           },
           {
